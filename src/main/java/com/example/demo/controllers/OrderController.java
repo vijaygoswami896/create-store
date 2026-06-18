@@ -4,8 +4,6 @@ import com.example.demo.dto.OrderRequest;
 import com.example.demo.entities.Order;
 import com.example.demo.services.OrderService;
 import jakarta.validation.Valid;
-import lombok.AllArgsConstructor;
-import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

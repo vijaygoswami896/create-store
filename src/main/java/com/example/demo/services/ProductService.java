@@ -2,7 +2,6 @@ package com.example.demo.services;
 
 import com.example.demo.entities.Product;
 import com.example.demo.repositories.ProductRepository;
-import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.*;
